@@ -28,7 +28,7 @@ pip install torch diffusers transformers pillow matplotlib
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Suyash-Gaurav/Image-Generation-with-Pre-trained-models.git
+   git clone https://github.com/Suyash-Gaurav/Image-Generation-with-Pre-trained-models-.git
    cd text-to-image-stable-diffusion
    ```
 
