@@ -1,7 +1,5 @@
 
 
-Here's a detailed `README.md` for your program:
-
 ```markdown
 # Text-to-Image Generation with Stable Diffusion
 
