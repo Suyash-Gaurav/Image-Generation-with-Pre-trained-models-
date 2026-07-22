@@ -1,6 +1,4 @@
 
-
-```markdown
 # Text-to-Image Generation with Stable Diffusion
 
 This project demonstrates how to use the pre-trained Stable Diffusion model to generate images from text prompts. The Stable Diffusion model, provided by the `diffusers` library from Hugging Face, is a powerful tool for creating high-quality images based on textual descriptions.
